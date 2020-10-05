@@ -2,6 +2,6 @@
 
 A collection of classic games built in modern javascript.
 
-* 2048: [ranningman.github.io/ugly2048/](ranningman.github.io/Ugly2048/)
+* 2048: [ranningman.github.io/ugly2048/](https://ranningman.github.io/Ugly2048/)
 
-* tetris: [ranningman.github.io/uglytetris/](ranningman.github.io/UglyTetris/)
+* tetris: [ranningman.github.io/uglytetris/](https://ranningman.github.io/UglyTetris/)
