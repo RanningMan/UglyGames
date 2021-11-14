@@ -1,4 +1,4 @@
-# UglyGames
+# Ran's Games
 
 A collection of classic games built in modern javascript.
 
